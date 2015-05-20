@@ -1,0 +1,26 @@
+html,body{
+    background-image: url(../img/bg.jpg);
+    background-size: 1000px 800px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #333;
+}
+
+.topbanner{
+    position: absolute;
+    left: 50%;
+    top: 20px;
+    margin-left: -200px;
+    width: 400px;
+    height: 150px;
+    background-image: url(../img/navibanner.png);
+    background-size: 400px 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.contain{
+    margin: 200px 200px 0;
+    background-color: rgba(255,255,255,.5);
+}
